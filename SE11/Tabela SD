@@ -1,0 +1,5 @@
+* tabela pentru identificarea bla bal
+
+SELECT * FROM TABELNAME.
+ 
+END.
